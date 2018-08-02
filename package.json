@@ -104,5 +104,6 @@
     "test": "gulp"
   },
   "types": "./dts/inversify.d.ts",
-  "version": "4.13.0"
+  "version": "4.13.0",
+  "image": "https://i.imgur.com/RvNGHvi.jpg"
 }
